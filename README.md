@@ -23,4 +23,5 @@ Project Architecture
 - factory- Playwright pagefactory file
 - constants- application constants 
 - base - BaseTest File .
+- screenshots- have generated screenshots 
     
